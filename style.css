@@ -24,6 +24,7 @@ th, td {
 }
 div.bottom {
   background-color: black;
+  color: black;
   position: absolute;
   top: 100%;
   right: 0%;
