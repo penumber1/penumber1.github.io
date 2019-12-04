@@ -22,3 +22,12 @@ th, td {
   overflow: hidden;
   text-align: center;
 }
+div.bottom {
+  background-color: black;
+  position: absolute;
+  top: 100%;
+  right: 0%;
+}
+div.bottom:hover {
+  background-color: #FF6600;
+}
