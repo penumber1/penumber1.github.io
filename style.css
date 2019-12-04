@@ -26,9 +26,13 @@ div.bottom {
   background-color: black;
   color: black;
   position: absolute;
-  top: 90%;
+  top: 0%;
   right: 0%;
 }
 div.bottom:hover {
   background-color: #FF0000;
+}
+a.bottom {
+  text-decoration: none;
+  color: black;
 }
