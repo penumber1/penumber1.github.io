@@ -12,7 +12,7 @@ table {
   background-color: white;
 }
 th {
-  background-color: #FF6600;
+  background-color: coral;
 }
 th, td {
   border: 1px solid black;
@@ -40,7 +40,7 @@ th.min, td.min {
   width: max-content;
 }
 th.min {
-  background-color: palegoldenrod;
+  background-color: burlywood;
 }
 td.min {
   background-color: lightgoldenrodyellow;
