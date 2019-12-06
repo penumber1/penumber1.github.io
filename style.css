@@ -22,17 +22,17 @@ th, td {
   overflow: hidden;
   text-align: center;
 }
-div.bottom {
+div.top {
   background-color: black;
   color: black;
   position: absolute;
   top: 0%;
   right: 0%;
 }
-div.bottom:hover {
+div.top:hover {
   background-color: #FF0000;
 }
-a.bottom {
+a.top {
   text-decoration: none;
   color: black;
 }
