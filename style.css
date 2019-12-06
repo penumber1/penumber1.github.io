@@ -36,3 +36,9 @@ a.bottom {
   text-decoration: none;
   color: black;
 }
+th.min, td.min {
+  width: 100px;
+}
+td.min {
+  background-color: #f7d708;
+}
