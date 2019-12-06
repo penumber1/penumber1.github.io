@@ -45,3 +45,6 @@ th.min {
 td.min {
   background-color: lightgoldenrodyellow;
 }
+td.imp {
+  background-image: linear-gradient(palegoldenrod, lightgoldenrodyellow);
+}
