@@ -39,6 +39,9 @@ a.bottom {
 th.min, td.min {
   width: max-content;
 }
+th.min {
+  background-color: palegoldenyellow;
+}
 td.min {
-  background-color: #f7d708;
+  background-color: lightgoldenrodyellow;
 }
