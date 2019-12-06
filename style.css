@@ -37,7 +37,7 @@ a.bottom {
   color: black;
 }
 th.min, td.min {
-  width: 100px;
+  width: max-content;
 }
 td.min {
   background-color: #f7d708;
